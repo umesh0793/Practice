@@ -14,4 +14,5 @@ SecondStep()
 newFuction: function newFuction()
 { var test;
 console.log("this is updated by repo");
+this.firstStep()
 }
