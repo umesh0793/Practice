@@ -10,3 +10,8 @@ SecondStep: function SecondStep()
     console.log("This is for second comit")
 }
 SecondStep()
+
+newFuction: function newFuction()
+{
+    
+}
