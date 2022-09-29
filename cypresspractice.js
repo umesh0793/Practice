@@ -4,3 +4,9 @@ firstStep: function firstStep()
 }
 
 firstStep();
+
+SecondStep: function SecondStep()
+{
+    console.log("This is for second comit")
+}
+SecondStep()
