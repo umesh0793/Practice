@@ -12,6 +12,6 @@ SecondStep: function SecondStep()
 SecondStep()
 
 newFuction: function newFuction()
-{
-    
+{ var test;
+
 }
