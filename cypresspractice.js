@@ -13,5 +13,5 @@ SecondStep()
 
 newFuction: function newFuction()
 {
-    
+    console.log("this is updated")
 }
