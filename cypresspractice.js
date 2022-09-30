@@ -14,6 +14,5 @@ SecondStep()
 newFuction: function newFuction()
 { var test;
 console.log("this is updated by repo");
-this.firstStep()
-console.log("changed the code intentinally")
+ console.log("this is second updtae from repo")
 }
