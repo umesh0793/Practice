@@ -4,6 +4,7 @@ firstStep: function firstStep()
 }
 
 firstStep();
+SecondStep();
 
 SecondStep: function SecondStep()
 {
